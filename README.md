@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rlilxxbruh
+- 👀 I’m interested in python
+- 🌱 I’m currently learning the basics
+- print("Hello, World!")
